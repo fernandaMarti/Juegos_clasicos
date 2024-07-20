@@ -7,17 +7,17 @@ Preguntas y Respuestas
 Piedra, Papel o Tijera
 
 # Archivos
-ahorcado.py
+1. ahorcado.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo ahorcado.py.
 Ejecute el archivo con el comando: python ahorcado.py.
 Siga las instrucciones en pantalla para jugar.
+
 2. Preguntas y Respuestas
 Descripción
 Este es un juego de trivia donde se hacen preguntas de diferentes categorías y el jugador debe responder correctamente.
 
-# Archivos
-preguntas_respuestas.py
+3. preguntas_respuestas.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo preguntas_respuestas.py.
 Ejecute el archivo con el comando: python preguntas_respuestas.py.
