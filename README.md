@@ -2,12 +2,12 @@
 Este repositorio contiene tres juegos clásicos implementados en archivos Python. A continuación se detalla la descripción de cada juego, junto con las instrucciones para ejecutarlos.
 
 Juegos Incluidos
-Ahorcado
-Preguntas y Respuestas
+Ahorcado,
+Preguntas y Respuestas,
 Piedra, Papel o Tijera
 
 # Archivos
-1. ahorcado.py
+1. Ahorcado
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo ahorcado.py.
 Ejecute el archivo con el comando: python ahorcado.py.
