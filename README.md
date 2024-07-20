@@ -5,9 +5,6 @@ Juegos Incluidos
 Ahorcado
 Preguntas y Respuestas
 Piedra, Papel o Tijera
-1. Ahorcado
-Descripción
-El juego del Ahorcado es un juego de adivinanzas en el que se debe adivinar una palabra letra por letra. Se tienen un número limitado de intentos antes de que se complete el dibujo del ahorcado.
 
 # Archivos
 ahorcado.py
