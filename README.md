@@ -15,19 +15,15 @@ Siga las instrucciones en pantalla para jugar.
 
 2. Preguntas y Respuestas
 Descripción
-Este es un juego de trivia donde se hacen preguntas de diferentes categorías y el jugador debe responder correctamente.
-
-3. preguntas_respuestas.py
+Este es un juego de trivia donde se hacen preguntas de diferentes categorías y el jugador debe responder correctamente.**
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo preguntas_respuestas.py.
 Ejecute el archivo con el comando: python preguntas_respuestas.py.
 Siga las instrucciones en pantalla para jugar.
+
 3. Piedra, Papel o Tijera
 Descripción
 Este es el clásico juego de Piedra, Papel o Tijera donde el jugador compite contra la computadora.
-
-# Archivos
-piedra_papel_tijera.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo piedra_papel_tijera.py.
 Ejecute el archivo con el comando: python piedra_papel_tijera.py.
