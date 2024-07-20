@@ -9,7 +9,7 @@ Piedra, Papel o Tijera
 Descripción
 El juego del Ahorcado es un juego de adivinanzas en el que se debe adivinar una palabra letra por letra. Se tienen un número limitado de intentos antes de que se complete el dibujo del ahorcado.
 
-Archivos
+# Archivos
 ahorcado.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo ahorcado.py.
@@ -19,7 +19,7 @@ Siga las instrucciones en pantalla para jugar.
 Descripción
 Este es un juego de trivia donde se hacen preguntas de diferentes categorías y el jugador debe responder correctamente.
 
-Archivos
+# Archivos
 preguntas_respuestas.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo preguntas_respuestas.py.
@@ -29,20 +29,23 @@ Siga las instrucciones en pantalla para jugar.
 Descripción
 Este es el clásico juego de Piedra, Papel o Tijera donde el jugador compite contra la computadora.
 
-Archivos
+# Archivos
 piedra_papel_tijera.py
 Instrucciones de Ejecución
 Navegue a la ubicación del archivo piedra_papel_tijera.py.
 Ejecute el archivo con el comando: python piedra_papel_tijera.py.
 Siga las instrucciones en pantalla para jugar.
-Requisitos del Sistema
+
+# Requisitos del Sistema
 Python 3.x
-Instalación
+
+# Instalación
 Asegúrese de tener Python 3.x instalado.
 Clone este repositorio: git clone [URL del repositorio]
 Navegue al directorio del repositorio clonado: cd [nombre del directorio]
 Ejecute cualquiera de los archivos de juego como se describió anteriormente.
-Contribución
+
+# Contribución
 Las contribuciones son bienvenidas. Si desea contribuir, por favor siga los siguientes pasos:
 
 Haga un fork de este repositorio.
@@ -50,10 +53,11 @@ Cree una rama para su característica (git checkout -b feature/nueva-caracterist
 Haga commit de sus cambios (git commit -am 'Añadir nueva característica').
 Empuje la rama (git push origin feature/nueva-caracteristica).
 Cree un nuevo Pull Request.
-Licencia
+
+# Licencia
 Este proyecto está bajo la Licencia MIT. Vea el archivo LICENSE para más detalles.
 
-Contacto
+# Contacto
 Este proyecto ha sido desarrollado en equipo para un proyecto de formación de análisis de datos.
-Para cualquier duda o sugerencia, por favor contacte a: Raquel Castellanos - https://github.com/RachelCaste; Fernanda Marti - https://github.com/fernandaMarti;  
+Para cualquier duda o sugerencia, por favor contacte a: https://github.com/RachelCaste; https://github.com/fernandaMarti; https://github.com/Violainedlst; https://github.com/isamartineztorrego; https://github.com/silviapazos
 
